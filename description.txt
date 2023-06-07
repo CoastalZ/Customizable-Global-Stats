@@ -1,0 +1,32 @@
+Customizable Global Stats is a mod, that allows you to customize the values of player stats.
+Here are the stats you can customize:
+-Health
+-Health Regen Speed
+-Defense
+-Damage Reduction
+-Armor Penetration
+-Damage
+-Mana
+-Mana Cost
+-Mana Regen Speed
+-Movement,Attack,Mining and Jump speed
+-Tile and Wall placement speed
+-Jump Height
+-Crit Chance
+-Max Minions
+-Max Sentries
+-Wing Fly Time
+-Tile and Wall placement range
+
+Everything is changeable in from -10000 (some percent values and few options can be lowered by only -100 bc they break) up to 10000000 in config.
+If you set the value to for ex. -10 the weapon damage is going to be reduced by it (Zenith would have 180 bc 190-10=180)
+You don't need a reload after changes.
+
+You can also set/multiply the stats
+
+Suggest some new variables to add in comments. I will try to look into them.
+
+
+
+
+

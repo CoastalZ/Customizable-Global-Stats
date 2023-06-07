@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMsDEP5qbJZU4ZNXkEbrH4IyKgyEaglfbkrW76xEPiIp/oPBXGB6mSuUwhbFPfbBRTgQ4Gnzx2DrfgrVdnKxEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MK\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CustomizableGSTS\\CustomizableGSTS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MK\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\MK\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\MK\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\MK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
